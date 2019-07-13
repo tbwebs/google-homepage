@@ -1,0 +1,17 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+li {
+    display: inline-block;
+    font-size: 13px;
+    padding: 20px
+}
+.right {
+    float: right;
+}
+#logo {
+    padding-top: 180px;
+    text-align: center;
+}
